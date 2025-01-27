@@ -8,7 +8,7 @@ from aiogram.utils.keyboard import InlineKeyboardBuilder
 import asyncio
 
 # Токен вашего бота (получите его у @BotFather)
-BOT_TOKEN = "7942383998:AAG-ltaXmaVbtYdQAXknlwEFW42Dt1gDjqM"
+BOT_TOKEN = ""
 
 # URL Центробанка РФ для получения курсов валют
 CBR_URL = "https://www.cbr.ru/scripts/XML_daily.asp"
